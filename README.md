@@ -170,6 +170,7 @@ Organizations that manage both effectively gain better control over **informatio
 
 In Information Management, **OLTP and OLAP systems serve distinct but complementary roles**. OLTP systems handle the efficient execution of daily transactions and act as the primary data sources of the organization. OLAP systems, on the other hand, analyze historical and aggregated data derived from OLTP systems to support managerial decision-making. Together, supported by ETL processes and data warehouses, they form an integrated information ecosystem that transforms raw operational data into strategic knowledge.
 
+---
 
 # ETL, Data Warehouses, Data Lakes, and Specialized Databases
 ### Supporting OLTP and OLAP in Information Management
